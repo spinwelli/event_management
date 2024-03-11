@@ -1,0 +1,3 @@
+Event evento1 = new Event("Festa de Ano Novo", "Rua A, 123", "Festa", "2024-12-31 20:00:00", "Venha celebrar o Ano Novo conosco!");
+Event evento2 = new Event("Corrida Beneficente", "Parque B", "Esportes", "2024-05-01 08:00:00", "Corrida para arrecadar fundos para instituições de caridade.");
+Event evento3 = new Event("Concerto da Banda XYZ", "Teatro Municipal", "Shows", "2024-08-15 19:30:00", "Apresentação ao vivo da banda XYZ.");

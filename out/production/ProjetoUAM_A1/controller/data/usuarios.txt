@@ -1,0 +1,3 @@
+User usuario1 = new User("João", "joao@email.com", "senha123");
+User usuario2 = new User("Maria", "maria@email.com", "senha456");
+User usuario3 = new User("Pedro", "pedro@email.com", "senha789");
